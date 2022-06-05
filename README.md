@@ -24,7 +24,8 @@ As evidence of this, they have provided us with the following information. For t
 ### 9. Plotting with colour!
 
 
-______________________________________________________________________________________________________________________________________________
+
+_______________________________________________________________________________________________________________-______________________________________________
 
 @RaghdahShElnadree
 
@@ -32,4 +33,11 @@ https://www.linkedin.com/in/raghdah-sh-elnadree-m-sc-a16816142/
 
 https://github.com/RaghdahShElnadree
 
+https://www.datacamp.com/profile/RaghdahShElnadree
+
+https://www.kaggle.com/rasherif
+
+
+
 M.sc Computer Science @RaghdahShElnadree
+
